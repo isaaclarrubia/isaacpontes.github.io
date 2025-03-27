@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaaclarrubia-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/isaac-pontes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaacpontes-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/isaac-pontes)
 [![Email](https://img.shields.io/badge/Email-isaaclfp%40gmail.com-red?style=flat-square&logo=gmail)](mailto:isaaclfpontes@gmail.com)
 [![Telefone](https://img.shields.io/badge/Telefone-%2B55%2022%2099605--7593-green?style=flat-square&logo=whatsapp)](tel:+5522996057593)
 
