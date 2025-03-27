@@ -2,10 +2,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaaclarrubia-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/isaaclarrubia)
-[![Email](https://img.shields.io/badge/Email-isaaclfp%40gmail.com-red?style=flat-square&logo=gmail)](mailto:isaaclfp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaaclarrubia-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/isaac-pontes)
+[![Email](https://img.shields.io/badge/Email-isaaclfp%40gmail.com-red?style=flat-square&logo=gmail)](mailto:isaaclfpontes@gmail.com)
 [![Telefone](https://img.shields.io/badge/Telefone-%2B55%2022%2099605--7593-green?style=flat-square&logo=whatsapp)](tel:+5522996057593)
-[![Localização](https://img.shields.io/badge/Localização-São%20Fidélis,%20RJ-orange?style=flat-square&logo=google-maps)](https://goo.gl/maps/SaoFidelis)
 
 </div>
 
